@@ -1,0 +1,13 @@
+String produto = ' camiseta';
+Decimal  media = 0; 
+Decimal minima =6;
+Decimal maxima = 20;
+Decimal valorTotal = ((media =
+maxima + minima)/2);
+ System.debug('valor atual : ' +valorTotal);
+if (valorTotal <= ){
+    System.debug('efetuar compra');
+                 }else{
+                      System.debug('Não efetuar compra');
+                     
+                 }

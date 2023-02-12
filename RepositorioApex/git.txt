@@ -1,0 +1,10 @@
+Andressa@DESKTOP-UF5JLJT MINGW32 ~ (main)
+$ git config user.name "Adriana Davi"
+
+Andressa@DESKTOP-UF5JLJT MINGW32 ~ (main)
+$ git config user.email"adritypd@gmail.com"
+
+Andressa@DESKTOP-UF5JLJT MINGW32 ~ (main)
+$ git config --list
+
+login git 
