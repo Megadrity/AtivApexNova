@@ -8,3 +8,78 @@ Andressa@DESKTOP-UF5JLJT MINGW32 ~ (main)
 $ git config --list
 
 login git 
+
+monitorar 
+criar registro 
+git status verificar oq aconteceu
+git restored// desfazer o arquivo apagado
+
+====================================
+/////
+list 
+List<String> cores = new List<String>();
+cores.add ('Rosa');
+cores.add ('Amarelo');
+cores.add ('Preta');
+cores.add ('Vermelho');
+System.debug(cores.get(3));
+alunos.remove(0);
+cores.remove(cores.indexOf('Preta'));
+if(alunos.contains('Rosa'))
+------------------------------------------List<String> cores = new List<String>();
+List<String> cores = new List<String>();
+cores.add ('Rosa');
+cores.add ('Amarelo');
+cores.add ('Preta');
+cores.add ('Vermelho');
+if(cores.contains('Rosa')){
+    System.debug('A cor Preta esta na lista');
+}else{
+    System.debug(' Nao esta na lista');
+}
+
+-------------------------------------------------
+Set
+Set<String> cores = new Set<String>();
+cores.add ('Verde');
+cores.add ('Azul');
+cores.add ('Marrom');
+cores.add ('Vermelho');
+cores.add('Branco');
+System.debug(cores()); //remove existente
+
+--------------------------------
+
+Map
+Map<String,String> cores = new Map<String, String>();
+cores.put('Azul','Cor');
+cores.put( 'Rosa','Flor');
+cores.put( 'Branco', 'Dente');
+cores.put('Verde','Hulk');
+System.debug(cores);
+System.debug(cores.get('Azul')// apenas uma chave na lista.
+System.debug(cores.keyset) //verifica as chaves na lista toda.
+System.debug(cores.containsKeys('Rosa'));//chave existe ou nao existe.
+System.debug(cores);
+cores.remove('Rosa');//remove a chave
+-------------------------------------
+varredura de lista
+List<String> cores = new List<String>();
+cores.add('Rosa');
+cores.add('Verde');
+cores.add('Amarelo');
+
+for(Integer i = 0; i < cores.size(); i++){ //sempre atualiza a lista
+    System.debug('Item existente da lista: ' + cores.get(i));
+}
+
+---------------------------------------
+map
+Map<String><String> cores = new List<String>();
+cores.add('Rosa');
+cores.add('Verde');
+cores.add('Amarelo');
+
+for(Integer i = 0; i < cores.size(); i++){ 
+    System.debug('Item existente da lista: ' + cores.get(i));
+}

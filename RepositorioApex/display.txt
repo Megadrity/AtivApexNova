@@ -1,0 +1,39 @@
+nn
+skeleto
+bootstrap
+------------------------
+.container{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content:space-evenly;
+    align-items: flex-start;
+    
+    margin: 0;
+}
+.container div{
+  width: 300px;
+  height: 300px;
+  transition: all 5s;
+}
+.container div p{
+width: 300px;
+height: 300px;
+}
+.container div:first-child{
+  background-color: crimson;
+  flex-flow: wrap;
+  margin: o;
+  flex: grow 3;
+}
+.container div:last-child{
+  background-color: orangered;
+  margin-right: 0;
+  flex-basis: 150px;
+}
+.container div:nth-child(2){
+  background-color: aquamarine;
+}
+justtify-content center
+grid-column 
+------------------
+alert 
