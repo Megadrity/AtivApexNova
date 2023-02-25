@@ -1,0 +1,10 @@
+touch text.text// criar arquivo
+git add texto.txt//adicionar no monitoramento
+git commit -m ""// registrar modificacoes
+git log // o que aconteceu com o arquivo
+git log -1// pega 1 log
+git log --graf// mostra as ramificacoes
+git add arquivo1 arquivo2
+git -a -m//localiza uma mudanca no codigo
+git commit -ammend//modifica o commit
+hash SHA-256 
