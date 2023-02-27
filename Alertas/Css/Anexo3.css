@@ -1,0 +1,28 @@
+div{
+background-color: rgba(200, 200, 248, 0.719); */
+  width: 50%;
+  margin: 30px;
+  text-align: center;
+  padding: 30px;
+  /* border-left: 4mm ridge rgba(172, 172, 169, 0.2); */
+  /* box-shadow: 10px 5px 15px; */
+}
+ 
+alerta1{
+width: 80%;
+font-style: 60px;
+color: rgb(79, 211, 79);
+float: right;
+}
+alerta2{
+    width: 80%;
+    height: auto;
+    font-style: 60px;
+    color: rgb(211, 79, 145);
+    float: left;
+    }
+    alerta3{
+        width: 50%;
+        font-style: 60px;
+        color: rgb(79, 158, 211);
+        }
