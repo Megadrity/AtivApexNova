@@ -1,59 +1,41 @@
-.div {
-  background-color: blue;
+nav {
+  background-color: rgb(232, 232, 235);
+  width: 50%;
+  margin: 30px;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 10px 5px 15px;
 }
-.alerta {
-  width: 30%;
-  background-color: #0066aa;
-  color: #faf1f1;
-  padding: 30px 20px;
-  font-size: 25px;
-  margin-bottom: 20px;
-  /*text-align: center;*/
+.foto{
+  border-left: 20px solid;
+  border-left-color: rgba(172, 172, 169, 0.2);
 }
-.alerta1 {
-  width: 60%;
-  height: 0%;
-  background-color: blueviolet;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
+.foto:hover{
+border-left-width: 40px;
 }
-.alerta2 {
-  width: 60%;
-  height: 30%;
-  background-color: rgb(119, 192, 10);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
+.foto2 {
+  background-color: rgb(170, 240, 185);
+  box-shadow: 10px 5px 15px;
+  border-left-color: rgba(74, 243, 110, 0.856);
+}
+.foto3 {
+  background-color: rgb(236, 185, 176);
+  box-shadow: 10px 5px 15px;
+  border-left-color: rgba(197, 76, 45, 0.856);
+}
+.foto4 {
+  background-color: rgba(228, 173, 24, 0.575);
+  box-shadow: 10px 5px 15px;
+  border-left-color:  rgba(151, 129, 3, 0.986);
 }
 
-.alerta3 {
-  width: 60%;
-  height: 30%;
-  background-color: rgb(216, 119, 8);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
+a {
+  text-decoration: none;
+  color: rgb(30, 34, 34);
+  margin-right: 30px;
 }
-.alerta4 {
-  width: 60%;
-  height: 10%;
-  background-color: rgb(221, 52, 52);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 .fechar {
-  margin-left: 10px;
-  opacity: 60%;
-}
-.icone {
-  margin-right: 13px;
-}
-.img {
-  width: 100px;
-  height: 30;
+  margin-left: 160%;
+  opacity: 0%;
 }
