@@ -1,41 +1,85 @@
-nav {
-  background-color: rgb(232, 232, 235);
-  width: 50%;
-  margin: 30px;
-  text-align: center;
-  padding: 30px;
-  box-shadow: 10px 5px 15px;
-}
-.foto{
-  border-left: 20px solid;
-  border-left-color: rgba(172, 172, 169, 0.2);
-}
-.foto:hover{
-border-left-width: 40px;
-}
-.foto2 {
-  background-color: rgb(170, 240, 185);
-  box-shadow: 10px 5px 15px;
-  border-left-color: rgba(74, 243, 110, 0.856);
-}
-.foto3 {
-  background-color: rgb(236, 185, 176);
-  box-shadow: 10px 5px 15px;
-  border-left-color: rgba(197, 76, 45, 0.856);
-}
-.foto4 {
-  background-color: rgba(228, 173, 24, 0.575);
-  box-shadow: 10px 5px 15px;
-  border-left-color:  rgba(151, 129, 3, 0.986);
-}
+/* .container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-evenly;
 
-a {
-  text-decoration: none;
-  color: rgb(30, 34, 34);
-  margin-right: 30px;
-}
+  margin: 0 auto;
+} */
+ div.
+/* {
+  width: 100px;
+  height: 30px;
+  transition: all 5s;
+  text-align: end;
+} */
 
-.fechar {
-  margin-left: 160%;
-  opacity: 0%;
+/* .container div:first-child {
+  background-color: crimson;
+  width: 10px;
+  height: 12px;
+} 
+/* .container div:nth-child(3) {
+  background-color: orangered; 
 }
+/* .container div:nth-child(2) {
+  background-color: aquamarine; 
+}*/
+/* @media screen and (max-width: 720px){ 
+   flex-flow: column nowrap; */
+   .btn{
+   text-align: center;
+   margin-top: 50px;
+  } 
+  .efeito{
+    border: none;
+    color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    font-size: 24px;
+    line-height: 24px;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+   
+  }
+  .efeito-1{
+    background-color: rgba(235, 129, 7, 0.267);
+      }
+      .efeito:before{
+        content: '';
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 0px;
+        height: 64px;
+        background: rgba(255, 255, 255, 0.3);
+        border-radius: 10px;
+        transition: all 2s ease;
+      }
+      .efeito-1:hover::before{
+        width: 100%;
+        
+      }
+  /* .button{
+    /* background-color: rgb(232, 232, 236);
+    text-align: right; */
+    /* width: 92%;
+  height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(236, 25, 25);
+  color: rgb(21, 255, 0);
+
+  }
+  .button:hover{
+    background-color: #f1ecec;
+    color:rgb(3, 3, 27)
+  }
+div:hover .ativo{
+  color: rgb(52, 14, 87);
+}
+div:hover .nota{
+ background-color: rgb(43, 21, 9) ;
+} */ */
+/* } */

@@ -1,4 +1,4 @@
-nav{
+nav {
   background-color: rgb(232, 232, 235);
   width: 50%;
   margin: 30px;
@@ -7,28 +7,28 @@ nav{
   border-left: 4mm ridge rgba(172, 172, 169, 0.2);
   box-shadow: 10px 5px 15px;
 }
-.foto2{
-    background-color: rgb(170, 240, 185);
-    border-left: 4mm ridge rgba(74, 243, 110, 0.856);
-    box-shadow: 10px 5px 15px;
+.foto2 {
+  background-color: rgb(170, 240, 185);
+  border-left: 4mm ridge rgba(74, 243, 110, 0.856);
+  box-shadow: 10px 5px 15px;
 }
-.foto3{
-    background-color: rgb(236, 185, 176);
-    border-left: 4mm ridge rgba(197, 76, 45, 0.856);
-    box-shadow: 10px 5px 15px;
+.foto3 {
+  background-color: rgb(236, 185, 176);
+  border-left: 4mm ridge rgba(197, 76, 45, 0.856);
+  box-shadow: 10px 5px 15px;
 }
-.foto4{
-    background-color: rgba(228, 173, 24, 0.575);
-    border-left: 4mm ridge rgba(151, 129, 3, 0.986);
-    box-shadow: 10px 5px 15px;
+.foto4 {
+  background-color: rgba(228, 173, 24, 0.575);
+  border-left: 4mm ridge rgba(151, 129, 3, 0.986);
+  box-shadow: 10px 5px 15px;
 }
-a{
+a {
   text-decoration: none;
   color: rgb(30, 34, 34);
   margin-right: 30px;
 }
 
-fechar {
+fechar{
   margin-left: 160%;
   opacity: 0%;
 }

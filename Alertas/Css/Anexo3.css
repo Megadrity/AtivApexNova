@@ -1,28 +1,41 @@
 div{
-background-color: rgba(200, 200, 248, 0.719); */
-  width: 50%;
+text-align: justify;
+  width: 10%;
   margin: 30px;
-  text-align: center;
-  padding: 30px;
-  /* border-left: 4mm ridge rgba(172, 172, 169, 0.2); */
-  /* box-shadow: 10px 5px 15px; */
+  padding: 65px;
+  /* border-left: 4px ridge rgb 172, 172, 169; 
+  box-shadow: 10px 5px 15px;  */
 }
- 
-alerta1{
-width: 80%;
+.div{
+  margin-top: 10px;
+  width: 10px;
+  height: 20px;
+}
+ div p{
+  width: 50px;
+  border-width: 1px solid #000;
+  marg
+ }
+.alerta1{
+width: 50px;
 font-style: 60px;
 color: rgb(79, 211, 79);
 float: right;
 }
-alerta2{
-    width: 80%;
-    height: auto;
-    font-style: 60px;
+.alerta2{
+    width: 19px;
+    height:10px;
+    font-style: 10px;
     color: rgb(211, 79, 145);
-    float: left;
+    float: right;
     }
-    alerta3{
-        width: 50%;
-        font-style: 60px;
+    .alerta3{
+      height: 10px;
+        width: 21px;
+        font-style: 10px;
         color: rgb(79, 158, 211);
+        margin:280px ;
+        border-color: rgb(17, 17, 16); 
+        button:hover
         }
+    
